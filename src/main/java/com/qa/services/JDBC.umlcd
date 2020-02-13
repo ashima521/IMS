@@ -18,13 +18,13 @@
       <cardinality xmi:id="_C1azGE5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
     </targetRole>
   </edges>
-  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C1dPUE5GEeqeXf8q8L7pQg" sourceAnchor="253.0,0.0" targetAnchor="186.0,0.0" target="_C5fawE5GEeqeXf8q8L7pQg" source="_C1d2YE5GEeqeXf8q8L7pQg">
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C1dPUE5GEeqeXf8q8L7pQg" sourceAnchor="253.0,0.0" targetAnchor="185.0,0.0" target="_C5fawE5GEeqeXf8q8L7pQg" source="_C1d2YE5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_knh4IU5FEeqeXf8q8L7pQg"/>
-    <bendpoints xmi:id="_Nq58qE5LEeqeXf8q8L7pQg" sourceX="-15" sourceY="-703" targetX="1435" targetY="72"/>
-    <bendpoints xmi:id="_Nq6jsE5LEeqeXf8q8L7pQg" sourceX="-14" sourceY="-764" targetX="1435" targetY="11"/>
-    <bendpoints xmi:id="_fInwsE5LEeqeXf8q8L7pQg" sourceX="-593" sourceY="-770" targetX="856" targetY="5"/>
-    <bendpoints xmi:id="_eQ2bME5LEeqeXf8q8L7pQg" sourceX="-1018" sourceY="-772" targetX="431" targetY="3"/>
-    <bendpoints xmi:id="_cJftIE5LEeqeXf8q8L7pQg" sourceX="-1257" sourceY="-774" targetX="192" targetY="1"/>
+    <bendpoints xmi:id="_RJD-ME5OEeqeXf8q8L7pQg" sourceX="-15" sourceY="-703" targetX="1429" targetY="72"/>
+    <bendpoints xmi:id="_RJD-MU5OEeqeXf8q8L7pQg" sourceX="-14" sourceY="-764" targetX="1430" targetY="11"/>
+    <bendpoints xmi:id="_RJD-Mk5OEeqeXf8q8L7pQg" sourceX="-593" sourceY="-770" targetX="851" targetY="5"/>
+    <bendpoints xmi:id="_RJD-M05OEeqeXf8q8L7pQg" sourceX="-1018" sourceY="-772" targetX="426" targetY="3"/>
+    <bendpoints xmi:id="_RJD-NE5OEeqeXf8q8L7pQg" sourceX="-1257" sourceY="-774" targetX="187" targetY="1"/>
     <stereotypes xmi:id="_C1dPUU5GEeqeXf8q8L7pQg" name="Reference">
       <modelElement href="JDBC.uml#_knh4I05FEeqeXf8q8L7pQg"/>
     </stereotypes>
@@ -39,7 +39,7 @@
     </sourceRole>
     <targetRole xmi:id="_C1dPVk5GEeqeXf8q8L7pQg" aggregationKind="NONE" name="customerService" navigable="true">
       <modelElement href="JDBC.uml#_kmgkck5FEeqeXf8q8L7pQg"/>
-      <visualProperties xmi:id="_DV8GME5GEeqeXf8q8L7pQg" position="-104.0,-82.00000000000011"/>
+      <visualProperties xmi:id="_DV8GME5GEeqeXf8q8L7pQg" position="-104.0,-81.99999999999989"/>
       <visibility xmi:id="_C1dPV05GEeqeXf8q8L7pQg" label="-"/>
       <cardinality xmi:id="_C1dPWE5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
     </targetRole>
@@ -61,9 +61,9 @@
       <cardinality xmi:id="_C2xd8k5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
     </targetRole>
   </edges>
-  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C2vowE5GEeqeXf8q8L7pQg" sourceAnchor="138.0,0.0" targetAnchor="186.0,38.0" target="_C5fawE5GEeqeXf8q8L7pQg" source="_C2ysEE5GEeqeXf8q8L7pQg">
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C2vowE5GEeqeXf8q8L7pQg" sourceAnchor="138.0,0.0" targetAnchor="185.0,38.0" target="_C5fawE5GEeqeXf8q8L7pQg" source="_C2ysEE5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_knkUYE5FEeqeXf8q8L7pQg"/>
-    <bendpoints xmi:id="_Nq58pU5LEeqeXf8q8L7pQg" sourceX="-19" sourceY="-540" targetX="855" targetY="2"/>
+    <bendpoints xmi:id="_RJElQE5OEeqeXf8q8L7pQg" sourceX="-38" sourceY="-566" targetX="868" targetY="27"/>
     <stereotypes xmi:id="_C2w2505GEeqeXf8q8L7pQg" name="Reference">
       <modelElement href="JDBC.uml#_knkUYk5FEeqeXf8q8L7pQg"/>
     </stereotypes>
@@ -100,9 +100,9 @@
       <cardinality xmi:id="_C3Tpc05GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
     </targetRole>
   </edges>
-  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C3Ow8E5GEeqeXf8q8L7pQg" sourceAnchor="173.0,0.0" targetAnchor="186.0,35.0" target="_C5fawE5GEeqeXf8q8L7pQg" source="_C3U3kE5GEeqeXf8q8L7pQg">
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C3Ow8E5GEeqeXf8q8L7pQg" sourceAnchor="173.0,0.0" targetAnchor="185.0,34.0" target="_C5fawE5GEeqeXf8q8L7pQg" source="_C3U3kE5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_knifM05FEeqeXf8q8L7pQg"/>
-    <bendpoints xmi:id="_Nq6js05LEeqeXf8q8L7pQg" sourceX="-18" sourceY="-449" targetX="445" targetY="-6"/>
+    <bendpoints xmi:id="_RJD-N05OEeqeXf8q8L7pQg" sourceX="-21" sourceY="-449" targetX="443" targetY="-5"/>
     <stereotypes xmi:id="_C3TpcE5GEeqeXf8q8L7pQg" name="Reference">
       <modelElement href="JDBC.uml#_knjtUE5FEeqeXf8q8L7pQg"/>
     </stereotypes>
@@ -122,32 +122,32 @@
       <cardinality xmi:id="_C3Tpd05GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
     </targetRole>
   </edges>
-  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_C3lWQE5GEeqeXf8q8L7pQg" sourceAnchor="213.0,0.0" targetAnchor="50.0,146.0" dashed="true" superClass="_C4CCME5GEeqeXf8q8L7pQg" subClass="_C1d2YE5GEeqeXf8q8L7pQg">
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_C3lWQE5GEeqeXf8q8L7pQg" sourceAnchor="213.0,0.0" targetAnchor="50.0,145.0" dashed="true" superClass="_C4CCME5GEeqeXf8q8L7pQg" subClass="_C1d2YE5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_klFBEE5FEeqeXf8q8L7pQg"/>
-    <bendpoints xmi:id="_Nq6jsU5LEeqeXf8q8L7pQg" sourceY="-327" targetX="503" targetY="542"/>
-    <bendpoints xmi:id="_Nq6jsk5LEeqeXf8q8L7pQg" sourceX="-480" sourceY="-354" targetX="26" targetY="523"/>
+    <bendpoints xmi:id="_RJD-NU5OEeqeXf8q8L7pQg" sourceY="-327" targetX="503" targetY="546"/>
+    <bendpoints xmi:id="_RJD-Nk5OEeqeXf8q8L7pQg" sourceX="-477" sourceY="-355" targetX="26" targetY="518"/>
   </edges>
-  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_C3w8cE5GEeqeXf8q8L7pQg" sourceAnchor="213.0,0.0" targetAnchor="50.0,146.0" dashed="true" superClass="_C4CCME5GEeqeXf8q8L7pQg" subClass="_C3U3kE5GEeqeXf8q8L7pQg">
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_C3w8cE5GEeqeXf8q8L7pQg" sourceAnchor="213.0,0.0" targetAnchor="50.0,145.0" dashed="true" superClass="_C4CCME5GEeqeXf8q8L7pQg" subClass="_C3U3kE5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_klIrcE5FEeqeXf8q8L7pQg"/>
-    <bendpoints xmi:id="_Nq6jtE5LEeqeXf8q8L7pQg" sourceY="-30" targetX="-397" targetY="545"/>
-    <bendpoints xmi:id="_Nq6jtU5LEeqeXf8q8L7pQg" sourceX="420" sourceY="-63" targetX="26" targetY="520"/>
+    <bendpoints xmi:id="_RJD-OE5OEeqeXf8q8L7pQg" sourceY="-30" targetX="-397" targetY="546"/>
+    <bendpoints xmi:id="_RJD-OU5OEeqeXf8q8L7pQg" sourceX="423" sourceY="-61" targetX="26" targetY="515"/>
   </edges>
-  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_C3w8cU5GEeqeXf8q8L7pQg" sourceAnchor="167.0,0.0" targetAnchor="53.0,146.0" dashed="true" superClass="_C4CCME5GEeqeXf8q8L7pQg" subClass="_C2ysEE5GEeqeXf8q8L7pQg">
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_C3w8cU5GEeqeXf8q8L7pQg" sourceAnchor="167.0,0.0" targetAnchor="53.0,145.0" dashed="true" superClass="_C4CCME5GEeqeXf8q8L7pQg" subClass="_C2ysEE5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_klMV0E5FEeqeXf8q8L7pQg"/>
   </edges>
   <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_C40sYE5GEeqeXf8q8L7pQg" sourceAnchor="146.0,0.0" targetAnchor="92.0,145.0" dashed="true" superClass="_C5fawE5GEeqeXf8q8L7pQg" subClass="_C5Mf2U5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_kl45YE5FEeqeXf8q8L7pQg"/>
-    <bendpoints xmi:id="_Nq58o05LEeqeXf8q8L7pQg" sourceY="-30" targetX="-535" targetY="531"/>
-    <bendpoints xmi:id="_Nq58pE5LEeqeXf8q8L7pQg" sourceX="535" sourceY="-30" targetY="531"/>
+    <bendpoints xmi:id="_RJDXI05OEeqeXf8q8L7pQg" sourceY="-30" targetX="-535" targetY="531"/>
+    <bendpoints xmi:id="_RJDXJE5OEeqeXf8q8L7pQg" sourceX="535" sourceY="-30" targetY="531"/>
   </edges>
-  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C5Mf0E5GEeqeXf8q8L7pQg" sourceAnchor="98.0,0.0" targetAnchor="187.0,78.0" target="_C_CpIE5GEeqeXf8q8L7pQg" source="_C5Mf2U5GEeqeXf8q8L7pQg">
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C5Mf0E5GEeqeXf8q8L7pQg" sourceAnchor="98.0,0.0" targetAnchor="186.0,78.0" target="_C_CpIE5GEeqeXf8q8L7pQg" source="_C5Mf2U5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_knpz8U5FEeqeXf8q8L7pQg"/>
-    <bendpoints xmi:id="_Nq58ok5LEeqeXf8q8L7pQg" sourceX="-17" sourceY="-698" targetX="561" targetY="7"/>
+    <bendpoints xmi:id="_RJDXIk5OEeqeXf8q8L7pQg" sourceX="-20" sourceY="-700" targetX="559" targetY="8"/>
     <stereotypes xmi:id="_C5Mf0U5GEeqeXf8q8L7pQg" name="Reference">
       <modelElement href="JDBC.uml#_knqbAE5FEeqeXf8q8L7pQg"/>
     </stereotypes>
     <nameVisual xmi:id="_C5Mf0k5GEeqeXf8q8L7pQg" text="">
-      <visualProperties xmi:id="_DV_wkE5GEeqeXf8q8L7pQg" position="-317.0,2.0"/>
+      <visualProperties xmi:id="_DV_wkE5GEeqeXf8q8L7pQg" position="-316.9999999999999,2.0"/>
     </nameVisual>
     <sourceRole xmi:id="_C5Mf005GEeqeXf8q8L7pQg" aggregationKind="NONE" name="">
       <modelElement href="JDBC.uml#_knpz8k5FEeqeXf8q8L7pQg"/>
@@ -157,21 +157,21 @@
     </sourceRole>
     <targetRole xmi:id="_C5Mf1k5GEeqeXf8q8L7pQg" aggregationKind="NONE" name="itemDao" navigable="true">
       <modelElement href="JDBC.uml#_km8pUE5FEeqeXf8q8L7pQg"/>
-      <visualProperties xmi:id="_DV_wkU5GEeqeXf8q8L7pQg" position="54.000000000000114,1.9999999999998863"/>
+      <visualProperties xmi:id="_DV_wkU5GEeqeXf8q8L7pQg" position="53.999999999999886,2.0000000000001137"/>
       <visibility xmi:id="_C5Mf105GEeqeXf8q8L7pQg" label="~"/>
       <cardinality xmi:id="_C5Mf2E5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
     </targetRole>
   </edges>
   <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_C6KJIE5GEeqeXf8q8L7pQg" sourceAnchor="187.0,0.0" targetAnchor="92.0,145.0" dashed="true" superClass="_C5fawE5GEeqeXf8q8L7pQg" subClass="_C6tiwE5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_kl12EE5FEeqeXf8q8L7pQg"/>
-    <bendpoints xmi:id="_Nq6juE5LEeqeXf8q8L7pQg" sourceY="-132" targetX="430" targetY="531"/>
-    <bendpoints xmi:id="_Nq6juU5LEeqeXf8q8L7pQg" sourceX="-430" sourceY="-132" targetY="531"/>
+    <bendpoints xmi:id="_RJD-PU5OEeqeXf8q8L7pQg" sourceY="-132" targetX="430" targetY="531"/>
+    <bendpoints xmi:id="_RJD-Pk5OEeqeXf8q8L7pQg" sourceX="-430" sourceY="-132" targetY="531"/>
   </edges>
-  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C6eSME5GEeqeXf8q8L7pQg" sourceAnchor="374.0,52.0" targetAnchor="187.0,58.0" target="_C_CpIE5GEeqeXf8q8L7pQg" source="_C6tiwE5GEeqeXf8q8L7pQg">
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C6eSME5GEeqeXf8q8L7pQg" sourceAnchor="374.0,52.0" targetAnchor="178.0,145.0" target="_C_CpIE5GEeqeXf8q8L7pQg" source="_C6tiwE5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_knpM4U5FEeqeXf8q8L7pQg"/>
-    <bendpoints xmi:id="_Nq6jtk5LEeqeXf8q8L7pQg" sourceX="159" targetX="1937" targetY="882"/>
-    <bendpoints xmi:id="_Nq6jt05LEeqeXf8q8L7pQg" sourceX="140" sourceY="-620" targetX="1926" targetY="260"/>
-    <bendpoints xmi:id="_Scn_ME5LEeqeXf8q8L7pQg" sourceX="-1792" sourceY="-640" targetX="-6" targetY="240"/>
+    <bendpoints xmi:id="_RJD-Ok5OEeqeXf8q8L7pQg" sourceX="159" targetX="1946" targetY="795"/>
+    <bendpoints xmi:id="_RJD-O05OEeqeXf8q8L7pQg" sourceX="141" sourceY="-621" targetX="1928" targetY="174"/>
+    <bendpoints xmi:id="_RJD-PE5OEeqeXf8q8L7pQg" sourceX="-1790" sourceY="-642" targetX="-3" targetY="153"/>
     <stereotypes xmi:id="_C6rtkk5GEeqeXf8q8L7pQg" name="Reference">
       <modelElement href="JDBC.uml#_knpz8E5FEeqeXf8q8L7pQg"/>
     </stereotypes>
@@ -186,7 +186,7 @@
     </sourceRole>
     <targetRole xmi:id="_C6rtkU5GEeqeXf8q8L7pQg" aggregationKind="NONE" name="customerDao" navigable="true">
       <modelElement href="JDBC.uml#_km7bMU5FEeqeXf8q8L7pQg"/>
-      <visualProperties xmi:id="_DWA-sU5GEeqeXf8q8L7pQg" position="1.0,-86.00000000000034"/>
+      <visualProperties xmi:id="_DWA-sU5GEeqeXf8q8L7pQg" position="0.9999999999997726,-86.0"/>
       <visibility xmi:id="_C6sUo05GEeqeXf8q8L7pQg" label="~"/>
       <cardinality xmi:id="_C6sUok5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
     </targetRole>
@@ -196,8 +196,8 @@
   </edges>
   <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C7nhsE5GEeqeXf8q8L7pQg" sourceAnchor="0.0,60.0" targetAnchor="186.0,65.0" target="_C_CpIE5GEeqeXf8q8L7pQg" source="_C7p98E5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_knqbAU5FEeqeXf8q8L7pQg"/>
-    <bendpoints xmi:id="_Nq6juk5LEeqeXf8q8L7pQg" sourceX="-562" targetX="454" targetY="862"/>
-    <bendpoints xmi:id="_Nq6ju05LEeqeXf8q8L7pQg" sourceX="-562" sourceY="-862" targetX="454"/>
+    <bendpoints xmi:id="_RJD-P05OEeqeXf8q8L7pQg" sourceX="-562" targetX="454" targetY="862"/>
+    <bendpoints xmi:id="_RJD-QE5OEeqeXf8q8L7pQg" sourceX="-562" sourceY="-862" targetX="454"/>
     <stereotypes xmi:id="_C7pW4E5GEeqeXf8q8L7pQg" name="Reference">
       <modelElement href="JDBC.uml#_knrCEE5FEeqeXf8q8L7pQg"/>
     </stereotypes>
@@ -206,21 +206,21 @@
     </nameVisual>
     <sourceRole xmi:id="_C7ov0U5GEeqeXf8q8L7pQg" aggregationKind="NONE" name="">
       <modelElement href="JDBC.uml#_knqbAk5FEeqeXf8q8L7pQg"/>
-      <visualProperties xmi:id="_DWBlwE5GEeqeXf8q8L7pQg" position="-65.5454545454545,2.0"/>
+      <visualProperties xmi:id="_DWBlwE5GEeqeXf8q8L7pQg" position="-66.0,2.0"/>
       <visibility xmi:id="_C7pW4k5GEeqeXf8q8L7pQg" label="+"/>
       <cardinality xmi:id="_C7pW4U5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
     </sourceRole>
     <targetRole xmi:id="_C7ov0k5GEeqeXf8q8L7pQg" aggregationKind="NONE" name="orderDao" navigable="true">
       <modelElement href="JDBC.uml#_km9QYU5FEeqeXf8q8L7pQg"/>
-      <visualProperties xmi:id="_DWCz4U5GEeqeXf8q8L7pQg" position="74.50000000000068,-52.00000000000034"/>
+      <visualProperties xmi:id="_DWCz4U5GEeqeXf8q8L7pQg" position="74.00000000000034,-52.000000000000455"/>
       <visibility xmi:id="_C7pW5E5GEeqeXf8q8L7pQg" label="~"/>
       <cardinality xmi:id="_C7pW405GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
     </targetRole>
   </edges>
-  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_C8Qa4E5GEeqeXf8q8L7pQg" sourceAnchor="153.0,0.0" targetAnchor="85.0,146.0" dashed="true" superClass="_C_CpIE5GEeqeXf8q8L7pQg" subClass="_C8x_UE5GEeqeXf8q8L7pQg">
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_C8Qa4E5GEeqeXf8q8L7pQg" sourceAnchor="153.0,0.0" targetAnchor="85.0,145.0" dashed="true" superClass="_C_CpIE5GEeqeXf8q8L7pQg" subClass="_C8x_UE5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_kltTMU5FEeqeXf8q8L7pQg"/>
-    <bendpoints xmi:id="_Nq58pk5LEeqeXf8q8L7pQg" sourceY="-30" targetX="-320" targetY="327"/>
-    <bendpoints xmi:id="_Nq58p05LEeqeXf8q8L7pQg" sourceX="322" sourceY="-99" targetX="2" targetY="258"/>
+    <bendpoints xmi:id="_RJDXJU5OEeqeXf8q8L7pQg" sourceY="-30" targetX="-320" targetY="330"/>
+    <bendpoints xmi:id="_RJDXJk5OEeqeXf8q8L7pQg" sourceX="322" sourceY="-107" targetX="2" targetY="253"/>
   </edges>
   <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C8tG0E5GEeqeXf8q8L7pQg" source="_C8x_UE5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_knk7cU5FEeqeXf8q8L7pQg"/>
@@ -256,7 +256,7 @@
       <cardinality xmi:id="_C8xYSE5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
     </targetRole>
   </edges>
-  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_C9HWgE5GEeqeXf8q8L7pQg" sourceAnchor="147.0,0.0" targetAnchor="85.0,146.0" dashed="true" superClass="_C_CpIE5GEeqeXf8q8L7pQg" subClass="_C9yr8k5GEeqeXf8q8L7pQg">
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_C9HWgE5GEeqeXf8q8L7pQg" sourceAnchor="147.0,0.0" targetAnchor="85.0,145.0" dashed="true" superClass="_C_CpIE5GEeqeXf8q8L7pQg" subClass="_C9yr8k5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_klvvcE5FEeqeXf8q8L7pQg"/>
   </edges>
   <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C9cGoE5GEeqeXf8q8L7pQg" source="_C9yr8k5GEeqeXf8q8L7pQg">
@@ -293,10 +293,10 @@
       <cardinality xmi:id="_C9yE505GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
     </targetRole>
   </edges>
-  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_C-KfYE5GEeqeXf8q8L7pQg" sourceAnchor="149.0,0.0" targetAnchor="85.0,146.0" dashed="true" superClass="_C_CpIE5GEeqeXf8q8L7pQg" subClass="_C-oZcE5GEeqeXf8q8L7pQg">
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_C-KfYE5GEeqeXf8q8L7pQg" sourceAnchor="149.0,0.0" targetAnchor="85.0,145.0" dashed="true" superClass="_C_CpIE5GEeqeXf8q8L7pQg" subClass="_C-oZcE5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_klxkoE5FEeqeXf8q8L7pQg"/>
-    <bendpoints xmi:id="_Nq58oE5LEeqeXf8q8L7pQg" sourceY="-273" targetX="360" targetY="327"/>
-    <bendpoints xmi:id="_Nq58oU5LEeqeXf8q8L7pQg" sourceX="-358" sourceY="-350" targetX="2" targetY="250"/>
+    <bendpoints xmi:id="_RJDXIE5OEeqeXf8q8L7pQg" sourceY="-273" targetX="360" targetY="330"/>
+    <bendpoints xmi:id="_RJDXIU5OEeqeXf8q8L7pQg" sourceX="-358" sourceY="-358" targetX="2" targetY="245"/>
   </edges>
   <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C-kvEE5GEeqeXf8q8L7pQg" source="_C-oZcE5GEeqeXf8q8L7pQg">
     <modelElement href="JDBC.uml#_knn-wU5FEeqeXf8q8L7pQg"/>
@@ -1756,34 +1756,43 @@
       </parameters>
     </operations>
   </nodes>
-  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_DEiNI05GEeqeXf8q8L7pQg" name="Runner" associationsOut="_DD1pkE5GEeqeXf8q8L7pQg">
-    <modelElement href="JDBC.uml#_kfRUAE5FEeqeXf8q8L7pQg"/>
-    <visualProperties xmi:id="_DEiNJE5GEeqeXf8q8L7pQg" position="2004.0,1590.0" size="-1.0,-1.0"/>
-    <visibility xmi:id="_DEiNJU5GEeqeXf8q8L7pQg" label="+"/>
-    <attributes xmi:id="_DEiNJk5GEeqeXf8q8L7pQg" defaultValue="Logger.getLogger(Runner.class)" name="LOGGER" staticAttribute="true">
-      <modelElement href="JDBC.uml#_kmeIME5FEeqeXf8q8L7pQg"/>
-      <visibility xmi:id="_DEiNJ05GEeqeXf8q8L7pQg" label="+"/>
-      <cardinality xmi:id="_DEiNKE5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
-      <type xmi:id="_DEiNKU5GEeqeXf8q8L7pQg" name="Logger">
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_DFl9EE5GEeqeXf8q8L7pQg" name="Ims" associationsOut="_DFDxkE5GEeqeXf8q8L7pQg">
+    <modelElement href="JDBC.uml#_ketTUE5FEeqeXf8q8L7pQg"/>
+    <visualProperties xmi:id="_DFl9EU5GEeqeXf8q8L7pQg" position="2449.0,1681.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_DFl9Ek5GEeqeXf8q8L7pQg" label="+"/>
+    <attributes xmi:id="_DFl9E05GEeqeXf8q8L7pQg" defaultValue="Logger.getLogger(Ims.class)" name="LOGGER" staticAttribute="true">
+      <modelElement href="JDBC.uml#_kmdhIE5FEeqeXf8q8L7pQg"/>
+      <visibility xmi:id="_DFl9FE5GEeqeXf8q8L7pQg" label="+"/>
+      <cardinality xmi:id="_DFl9FU5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
+      <type xmi:id="_DFl9Fk5GEeqeXf8q8L7pQg" name="Logger">
         <modelElement href="JDBC.uml#_kk6pAE5FEeqeXf8q8L7pQg"/>
       </type>
     </attributes>
-    <operations xmi:id="_DEiNKk5GEeqeXf8q8L7pQg" name="main" staticOperation="true">
-      <modelElement href="JDBC.uml#_kfR7EE5FEeqeXf8q8L7pQg"/>
-      <visibility xmi:id="_DEiNK05GEeqeXf8q8L7pQg" label="+"/>
-      <cardinality xmi:id="_DEiNLE5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
-      <parameters xmi:id="_DEiNLU5GEeqeXf8q8L7pQg" name="args">
-        <modelElement href="JDBC.uml#_kfSiIE5FEeqeXf8q8L7pQg"/>
-        <cardinality xmi:id="_DEiNLk5GEeqeXf8q8L7pQg" label="1..*" max="-1" min="1"/>
-        <type xmi:id="_DEiNL05GEeqeXf8q8L7pQg" name="String">
-          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    <operations xmi:id="_DFl9F05GEeqeXf8q8L7pQg" name="imsSystem">
+      <modelElement href="JDBC.uml#_kfNpoE5FEeqeXf8q8L7pQg"/>
+      <visibility xmi:id="_DFl9GE5GEeqeXf8q8L7pQg" label="+"/>
+      <cardinality xmi:id="_DFl9GU5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_DFl9Gk5GEeqeXf8q8L7pQg" name="doAction">
+      <modelElement href="JDBC.uml#_kk8eME5FEeqeXf8q8L7pQg"/>
+      <visibility xmi:id="_DFl9G05GEeqeXf8q8L7pQg" label="+"/>
+      <cardinality xmi:id="_DFl9HE5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_DFl9HU5GEeqeXf8q8L7pQg" name="crudController">
+        <modelElement href="JDBC.uml#_kk9FQE5FEeqeXf8q8L7pQg"/>
+        <cardinality xmi:id="_DFl9Hk5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
+        <type xmi:id="_DFl9H05GEeqeXf8q8L7pQg" name="CrudController">
+          <modelElement href="JDBC.uml#_kfc6ME5FEeqeXf8q8L7pQg"/>
         </type>
+      </parameters>
+      <parameters xmi:id="_DFl9IE5GEeqeXf8q8L7pQg" name="action">
+        <modelElement href="JDBC.uml#_kk9FQU5FEeqeXf8q8L7pQg"/>
+        <cardinality xmi:id="_DFl9IU5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
       </parameters>
     </operations>
   </nodes>
   <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_C_8oEE5GEeqeXf8q8L7pQg" name="OrderDao">
     <modelElement href="JDBC.uml#_kiJB0E5FEeqeXf8q8L7pQg"/>
-    <visualProperties xmi:id="_C_8oEU5GEeqeXf8q8L7pQg" position="1969.0,1861.0" size="-1.0,-1.0"/>
+    <visualProperties xmi:id="_C_8oEU5GEeqeXf8q8L7pQg" position="2018.0,1489.0" size="-1.0,-1.0"/>
     <stereotypes xmi:id="_C_8oEk5GEeqeXf8q8L7pQg" name="Generics">
       <modelElement href="JDBC.uml#_kiKP8E5FEeqeXf8q8L7pQg"/>
     </stereotypes>
@@ -1858,39 +1867,27 @@
       </parameters>
     </operations>
   </nodes>
-  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_DFl9EE5GEeqeXf8q8L7pQg" name="Ims" associationsOut="_DFDxkE5GEeqeXf8q8L7pQg">
-    <modelElement href="JDBC.uml#_ketTUE5FEeqeXf8q8L7pQg"/>
-    <visualProperties xmi:id="_DFl9EU5GEeqeXf8q8L7pQg" position="1344.0,1568.0" size="-1.0,-1.0"/>
-    <visibility xmi:id="_DFl9Ek5GEeqeXf8q8L7pQg" label="+"/>
-    <attributes xmi:id="_DFl9E05GEeqeXf8q8L7pQg" defaultValue="Logger.getLogger(Ims.class)" name="LOGGER" staticAttribute="true">
-      <modelElement href="JDBC.uml#_kmdhIE5FEeqeXf8q8L7pQg"/>
-      <visibility xmi:id="_DFl9FE5GEeqeXf8q8L7pQg" label="+"/>
-      <cardinality xmi:id="_DFl9FU5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
-      <type xmi:id="_DFl9Fk5GEeqeXf8q8L7pQg" name="Logger">
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_DEiNI05GEeqeXf8q8L7pQg" name="Runner" associationsOut="_DD1pkE5GEeqeXf8q8L7pQg">
+    <modelElement href="JDBC.uml#_kfRUAE5FEeqeXf8q8L7pQg"/>
+    <visualProperties xmi:id="_DEiNJE5GEeqeXf8q8L7pQg" position="2432.0,1425.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_DEiNJU5GEeqeXf8q8L7pQg" label="+"/>
+    <attributes xmi:id="_DEiNJk5GEeqeXf8q8L7pQg" defaultValue="Logger.getLogger(Runner.class)" name="LOGGER" staticAttribute="true">
+      <modelElement href="JDBC.uml#_kmeIME5FEeqeXf8q8L7pQg"/>
+      <visibility xmi:id="_DEiNJ05GEeqeXf8q8L7pQg" label="+"/>
+      <cardinality xmi:id="_DEiNKE5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
+      <type xmi:id="_DEiNKU5GEeqeXf8q8L7pQg" name="Logger">
         <modelElement href="JDBC.uml#_kk6pAE5FEeqeXf8q8L7pQg"/>
       </type>
     </attributes>
-    <operations xmi:id="_DFl9F05GEeqeXf8q8L7pQg" name="imsSystem">
-      <modelElement href="JDBC.uml#_kfNpoE5FEeqeXf8q8L7pQg"/>
-      <visibility xmi:id="_DFl9GE5GEeqeXf8q8L7pQg" label="+"/>
-      <cardinality xmi:id="_DFl9GU5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
-    </operations>
-    <operations xmi:id="_DFl9Gk5GEeqeXf8q8L7pQg" name="doAction">
-      <modelElement href="JDBC.uml#_kk8eME5FEeqeXf8q8L7pQg"/>
-      <visibility xmi:id="_DFl9G05GEeqeXf8q8L7pQg" label="+"/>
-      <cardinality xmi:id="_DFl9HE5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
-      <parameters xmi:id="_DFl9HU5GEeqeXf8q8L7pQg" name="crudController">
-        <modelElement href="JDBC.uml#_kk9FQE5FEeqeXf8q8L7pQg"/>
-        <cardinality xmi:id="_DFl9Hk5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
-        <type xmi:id="_DFl9H05GEeqeXf8q8L7pQg" name="CrudController">
-          <modelElement href="JDBC.uml#_kfc6ME5FEeqeXf8q8L7pQg"/>
-        </type>
-      </parameters>
-      <parameters xmi:id="_DFl9IE5GEeqeXf8q8L7pQg" name="action">
-        <modelElement href="JDBC.uml#_kk9FQU5FEeqeXf8q8L7pQg"/>
-        <cardinality xmi:id="_DFl9IU5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
-        <type xmi:id="_DFl9Ik5GEeqeXf8q8L7pQg" name="Action">
-          <modelElement href="JDBC.uml#_kfTwQE5FEeqeXf8q8L7pQg"/>
+    <operations xmi:id="_DEiNKk5GEeqeXf8q8L7pQg" name="main" staticOperation="true">
+      <modelElement href="JDBC.uml#_kfR7EE5FEeqeXf8q8L7pQg"/>
+      <visibility xmi:id="_DEiNK05GEeqeXf8q8L7pQg" label="+"/>
+      <cardinality xmi:id="_DEiNLE5GEeqeXf8q8L7pQg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_DEiNLU5GEeqeXf8q8L7pQg" name="args">
+        <modelElement href="JDBC.uml#_kfSiIE5FEeqeXf8q8L7pQg"/>
+        <cardinality xmi:id="_DEiNLk5GEeqeXf8q8L7pQg" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_DEiNL05GEeqeXf8q8L7pQg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </type>
       </parameters>
     </operations>

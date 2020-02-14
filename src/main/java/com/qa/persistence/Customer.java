@@ -58,8 +58,8 @@ public class Customer {
 	}
 	
 	public String toString() {
-		return "id: " + id + " , " + "first name: " + foreName + " , " + "surname: " + surname + " ," +  "email: " + email + " , " + "address: " + address; 
+		return "id: " + id + " , " + "first name: " + foreName + " , " + "surname: " + surname + " , " +  "email: " + email + " , " + "address: " + address; 
 		
 	}
-
+	
 }

@@ -39,13 +39,7 @@ public class CustomerControllerTest {
 		Mockito.when(customerServices.readAll()).thenReturn(customers);
 		assertEquals(customers, customerController.readAll());
 	}
-		
-	@Test
-	public void deleteTest() {
-		String id = "1";
-		Mockito.doReturn(id).when(customerController).getInput();
-		customerController.delete();
-		Mockito.verify(customerServices, Mockito.times(1)).delete(1L);
 
-}
+
+
 }

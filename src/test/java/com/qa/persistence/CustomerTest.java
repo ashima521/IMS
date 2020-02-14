@@ -1,4 +1,4 @@
-package com.qa.services;
+package com.qa.persistence;
 
 
 
@@ -104,7 +104,7 @@ public class CustomerTest {
 	public void nullIdOnBoth() {
 		customer.setId(null);
 		other.setId(null);
-		assertTrue(customer.equals(other));
+		assertFalse(customer.equals(other));
 	}
 	
 	@Test
@@ -123,7 +123,7 @@ public class CustomerTest {
 	public void nullSurnameOnBoth() {
 		customer.setSurname(null);
 		other.setSurname(null);
-		assertTrue(customer.equals(other));
+		assertFalse(customer.equals(other));
 	}
 	
 	@Test
@@ -141,12 +141,12 @@ public class CustomerTest {
 		assertNotNull(customer.getEmail());
 		assertNotNull(customer.getAddress());
 	}
-	
+
 	@Test
 	public void toStringTest() {
 		String toString = "id: 1 , first name: A , surname: B , email: C , address: D";
 		assertEquals(toString, customer.toString());
 
-}
+} 
 
 }

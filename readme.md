@@ -1,4 +1,4 @@
-# Project Title
+# Inventory Management System
 
 One Paragraph of project description goes here
 

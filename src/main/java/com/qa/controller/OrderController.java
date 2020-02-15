@@ -46,7 +46,7 @@ public class OrderController implements CrudController<Order> {
 		ArrayList<Double> price = new ArrayList<Double>();
 		
 		while (true) {
-			LOGGER.info("Please enter item id:");
+			LOGGER.info("Please enter item id if finished enter 0:");
 			Long l = Long.valueOf(Utils.input());
 			items.add(l);
 			if(l==0) {
